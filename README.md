@@ -9,13 +9,14 @@
 
 
 
- <a href="https://github.com/g-lacerda"/>
- <div align="center">
+<a href="https://github.com/g-lacerda"/>
+<div align="center">
   <a href="https://github.com/g-lacerda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g-lacerda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-lacerda&layout=compact&langs_count=7&theme=dracula"/>
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=g-lacerda&theme=dracula" alt="FelipeGabriel7" /></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g-lacerda&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-lacerda&layout=compact&langs_count=7&theme=vue-dark"/>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=g-lacerda&theme=vue-dark" alt="g-lacerda" /></p>
 </div>
+
 
 ## 👩‍💻 Technologies I'm learning
 
