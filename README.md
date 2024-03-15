@@ -1,3 +1,4 @@
+# A maioria dos meus commits são privados e não contabilizam nos Commits, Pull Requests... 😥
 
 <div style="display: flex; gap: 2rem;widht: 1200px">
 
