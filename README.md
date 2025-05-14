@@ -42,13 +42,8 @@
    <hr />
   <h3 class="text-align: center"> Contact </h3>
  
-
-  <a href="https://www.instagram.com/lacerda.jpg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:guilacerda.28z@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=dark" target="_blank"></a>
   <a href="https://www.linkedin.com/in/g-lacerda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=dark" target="_blank"></a> 
-  
-
-  
+  <a href = "mailto:guilacerda.28z@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=dark" target="_blank"></a>
   
   </div>
 
