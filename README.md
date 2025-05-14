@@ -50,3 +50,8 @@
   </div>
 
 </div>
+
+---
+
+> 🔒 Most of my work is in private repositories.
+> What you see here in public are mostly older projects from when I was starting out and learning new technologies.
