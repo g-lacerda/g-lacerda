@@ -1,6 +1,8 @@
 ## My stack
 
-### Frontend & Mobile
+### Frameworks
+
+#### Frontend & Mobile
 
 <div align="center">
 
@@ -9,7 +11,7 @@
 
 </div>
 
-### Backend
+#### Backend
 
 <div align="center">
   
