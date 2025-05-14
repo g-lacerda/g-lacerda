@@ -1,25 +1,3 @@
-#### A maioria dos meus commits são em repositórios privados e não contabilizam nos Commits, Pull Requests... 😥
-
-<div style="display: flex; gap: 2rem;widht: 1200px">
-
-
-<h2 style="background: #fff"> Back-end Developer | Mobile Developer </h2>
-<h4 style="background: #fff"> Majoring in Information Systems </h4>
-
-<h4 style="background: #fff"> Stack: Laravel / Express.js / React Native </h4>
-
-
-
-<a href="https://github.com/g-lacerda"/>
-<div align="center">
-  <a href="https://github.com/g-lacerda">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g-lacerda&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" decoding="async" loading="lazy"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-lacerda&layout=compact&langs_count=7&theme=vue-dark" decoding="async" loading="lazy"/>
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=g-lacerda&theme=vue-dark" alt="g-lacerda" decoding="async" loading="lazy"/></p>
-  </a>
-</div>
-
-
 ## 👩‍💻 Technologies I'm learning
 
 <div align="center">
